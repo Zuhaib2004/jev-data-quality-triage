@@ -1,0 +1,9 @@
+record_id,email,age,country,status,notes
+c001,ada@example.com,34,US,active,
+c002,  Sam@EXAMPLE.COM ,029,uk,ACTIVE,
+c003,,42,CA,active,
+c004,lee@example.com,104,US,active,
+c005,pat@example.com,44,DE,active,Account was closed last month
+c006,ron@example.com,39,FR,pending,
+c001,duplicate@example.com,20,US,active,
+c007,no-at-symbol,25,AU,inactive,

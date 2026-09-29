@@ -1,0 +1,7 @@
+[
+  {"record_id":"j001","email":"ada@example.com","age":34,"country":"US","status":"active"},
+  {"record_id":"j002","email":"Sam@EXAMPLE.COM","age":"029","country":"uk","status":"ACTIVE"},
+  {"record_id":"j003","email":null,"age":42,"country":"CA","status":"active"},
+  {"record_id":"j004","email":"lee@example.com","age":104,"country":"US","status":"active"},
+  {"record_id":"j005","email":"pat@example.com","age":44,"country":"DE","status":"active","notes":"Account was closed last month"}
+]
